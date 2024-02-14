@@ -41,4 +41,5 @@ Contribuições são bem-vindas! Para contribuir com este módulo, siga estas et
 Bruno Gondran
 
 # Licença:<br>
-Este módulo é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+Este módulo é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.<br>
+https://github.com/BrunoGondran2023/calculo_de_cenarios/blob/main/license.md
